@@ -1,4 +1,5 @@
-### Hi there 👋
+# Krish Goel 
+## Pronounced ```KrishSkywalker```
 
 <!--
 **KrishSkywalker/KrishSkywalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

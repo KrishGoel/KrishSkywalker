@@ -1,5 +1,5 @@
 # Krish Goel 
-> ## Pronounced 📢: ```KrishSkywalker```
+> ### Pronounced 📢: ```KrishSkywalker```
 👋 Sup adios, I'm a full-time aspiring engineering student at 🏫 Sanskriti School, New Delhi.
 
 I’m currently learning how to 🤖 the teach machines to think autonomously and working on a 👗 smart streetwear fashion startup [@VKYD](https://github.com/VKYD).
